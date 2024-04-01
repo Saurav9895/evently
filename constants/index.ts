@@ -3,14 +3,16 @@ export const headerLinks = [
     label: 'Home',
     route: '/',
   },
-  {
-    label: 'Create Service',
-    route: '/events/create',
-  },
+  // {
+  //   label: 'Create Service',
+  //   route: '/events/create',
+  // },
   {
     label: 'My Profile',
     route: '/profile',
   },
+ 
+ 
 ]
 
 export const eventDefaultValues = {
